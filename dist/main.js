@@ -12,7 +12,7 @@ __webpack_require__.r(__webpack_exports__);
 function PracticingWebpack(){
     var element = document.createElement('div');
 
-    element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['hello','world!','sleepybears!'],' ');
+    element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['hello','world','sleepybears!'],' ');
 
     return element;
 }
